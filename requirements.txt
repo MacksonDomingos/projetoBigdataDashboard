@@ -1,3 +1,7 @@
+# 📦 Dependências do projeto "Dashboard Construção Civil"
+# Para instalar todas as bibliotecas, execute no terminal:
+# pip install -r requirements.txt
+
 streamlit==1.39.0
 pandas==2.2.3
 numpy>=1.26.0
